@@ -1,0 +1,5 @@
+{
+  "test_test.py::TestClass::()::test_01": true,
+  "test_test.py::TestClass::()::test_01[myfixture0]": true,
+  "test_test.py::test_01[myfixture0]": true
+}
